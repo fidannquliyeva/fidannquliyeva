@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=[PEŞƏNİZ];From+Azerbaijan+🇦🇿;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AndroidDevelopment;From+Azerbaijan+🇦🇿;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
@@ -71,35 +71,11 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[GITHUB-USERNAME]&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=fidannquliyeva&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fidannquliyeva]&theme=tokyo-night)](https://github.com/[GITHUB-USERNAME])
-
----
-
-
-<div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎯 Profile Views
-![](https://komarev.com/ghpvc/?username=[GITHUB-USERNAME]&color=blue&style=for-the-badge)
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fidannquliyeva]&theme=tokyo-night)](https://github.com/fidannquliyeva)
 
 ---
 
